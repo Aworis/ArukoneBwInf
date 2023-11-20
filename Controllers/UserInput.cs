@@ -15,8 +15,6 @@ namespace ArukoneKonsole.Controllers
             Console.Write("Gebe für die Spielfeldgröße eine Zahl zwischen 4 und 30 ein: ");
             string input = Console.ReadLine();
 
-            // "out" bedeutet, dass die Variable nach dem Methodenaufruf einen Wert haben wird,
-            // unabhängig davon, ob die Methode erfolgreich ist oder nicht.
             if (int.TryParse(input, out int boardSize) &&
                 boardSize >= ArukoneBoard.MinBoardsize &&
                 boardSize <= ArukoneBoard.MaxBoardsize)
