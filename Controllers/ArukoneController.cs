@@ -135,10 +135,9 @@ namespace ArukoneKonsole.Controllers
                 new int[] { -1, 0 },    // top
                 new int[] { 1, 0 },     // bottom
                 new int[] { 0, -1 },    // left
-                new int[] { 0, 1 }       // right
+                new int[] { 0, 1 }      // right
             };
 
-            // TODO: Hier besser kommentieren.
             foreach (var offset in directionOffsets)
             {
                 var x = currentXCoordinate + offset[1];
