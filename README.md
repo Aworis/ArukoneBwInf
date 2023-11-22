@@ -41,7 +41,7 @@ Es folgen Beispiele, die vom Programm als Textausgabe mit und ohne Lösung gener
 
 |Arukone 4x4     |                         |                         |
 |----------------|-------------------------|-------------------------|
-|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/f637b7e2-6f20-402a-8735-42480a5f1d17)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/5b66bf5e-9d0d-42ac-a20a-e3acdf7fa960)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/e3419a94-8338-4d97-89ae-cb670d518f38)|
+|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/textausgabe4x4.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/generiert4x4.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/checker4x4.jpg)|
 |Textausgabe 4x4 |Generierte Lösung 4x4    |Arukone-Checker 4x4      |
 
 |Arukone 15x15     |                         |                         |
