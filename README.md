@@ -41,17 +41,15 @@ Es folgen Beispiele, die vom Programm als Textausgabe mit und ohne Lösung gener
 
 |Arukone 4x4     |                         |                         |
 |----------------|-------------------------|-------------------------|
-|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/textausgabe4x4.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/generiert4x4.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/checker4x4.jpg)|
+|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/textausgabe4x4.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/generiert4x4t.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/checker4x4.jpg)|
 |Textausgabe 4x4 |Generierte Lösung 4x4    |Arukone-Checker 4x4      |
 
 |Arukone 15x15     |                         |                         |
 |------------------|-------------------------|-------------------------|
-|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/ae75f4ae-3ef5-4561-bd7e-d0e1ebe80795)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/9436e1b4-7fc7-4c3a-8fd6-5a2280ac02a9)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/63f6abe2-88c9-423f-86e0-292b4872664d)|
+|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/textausgabe14x14.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/generiert14x14.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/checker.jpg)|
 |Textausgabe 15x15 |Generierte Lösung 15x15  |Arukone-Checker 15x15    |
-
-
 
 |Arukone-Checker ungelöst     |                         |
 |-----------------------------|-------------------------|
-|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/d502753c-5681-48f3-a158-0ba2f00eed4d)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/a94269bd-9144-4e82-809c-afab3f34d8ba)|
+|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/generiert8x8.jpg)|![image](https://github.com/Aworis/ArukoneBwInf/blob/main/img/ungeloest8x8.jpg)|
 |Generierte Lösung 8x8|Arukone-Checker ungelöst 8x8|
