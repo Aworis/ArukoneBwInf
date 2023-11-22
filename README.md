@@ -1,5 +1,4 @@
 # Arukone - Aufgabe 1 des 42. Bundeswettbewerbs für Informatik
-Aufgabe Nr. 1 des BwInf 42
 
 ## Lösungsidee
 Um garantiert ein lösbares Arukone-Rätsel zu erhalten, war die Lösungsidee, das Arukone-Rätsel zunächst leer auf einem zweidimensionalen Koordinatensystem mit entsprechender Größe abzubilden.
@@ -39,3 +38,20 @@ Sobald ein Arukone-Rätsel erstellt wurde, sorgt die UserOutput-Klasse dafür, d
 
 ## Beispiele
 Es folgen Beispiele, die vom Programm als Textausgabe mit und ohne Lösung generiert wurden. Zur Verdeutlichung wurden in der generierten Lösung die Zahlenketten farblich hervorgehoben. Die Lösung des Arukone-Checkers dient als Vergleich.
+
+|Arukone 4x4     |                         |                         |
+|----------------|-------------------------|-------------------------|
+|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/f637b7e2-6f20-402a-8735-42480a5f1d17)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/5b66bf5e-9d0d-42ac-a20a-e3acdf7fa960)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/e3419a94-8338-4d97-89ae-cb670d518f38)|
+|Textausgabe 4x4 |Generierte Lösung 4x4    |Arukone-Checker 4x4      |
+
+|Arukone 15x15     |                         |                         |
+|------------------|-------------------------|-------------------------|
+|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/ae75f4ae-3ef5-4561-bd7e-d0e1ebe80795)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/9436e1b4-7fc7-4c3a-8fd6-5a2280ac02a9)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/63f6abe2-88c9-423f-86e0-292b4872664d)|
+|Textausgabe 15x15 |Generierte Lösung 15x15  |Arukone-Checker 15x15    |
+
+
+
+|Arukone-Checker ungelöst     |                         |
+|-----------------------------|-------------------------|
+|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/d502753c-5681-48f3-a158-0ba2f00eed4d)|![image](https://github.com/Aworis/ArukoneBwInf/assets/98288484/a94269bd-9144-4e82-809c-afab3f34d8ba)|
+|Generierte Lösung 8x8|Arukone-Checker ungelöst 8x8|
